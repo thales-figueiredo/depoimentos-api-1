@@ -1,0 +1,1 @@
+{"version":1,"defects":{"DepoimentosTest::testGetRequest":8,"DepoimentosTest::testPostRequest":8,"DepoimentosTest::testPutRequest":8,"DepoimentosTest::testDeleteRequest":8},"times":{"DepoimentosTest::testGetRequest":0.019,"DepoimentosTest::testPostRequest":0.001,"DepoimentosTest::testPutRequest":0.001,"DepoimentosTest::testDeleteRequest":0.001}}
